@@ -1,7 +1,0 @@
-{
-  "name": "recilica-app",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
